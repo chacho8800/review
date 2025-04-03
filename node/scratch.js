@@ -10,7 +10,7 @@ here is more of that same comment
 // how to print to the console, the second most important thing to learn in any language.
 console.log("Im a real boy")
 
-// examle of hosting in action 
+// example of hosting in action 
 console.log(thing = "something") // undefined
 // Variables
 // Declared, usin very specific words.
